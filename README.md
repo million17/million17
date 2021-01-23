@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Hi, I'm Trieu Ngo Quang 👋 I'm a 🚀 Viet Nam developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
 <!--
 **million17/million17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
