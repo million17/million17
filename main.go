@@ -16,10 +16,7 @@ type Response struct {
 			Quote      string   `json:"quote"`
 			Length     string   `json:"length"`
 			Author     string   `json:"author"`
-			Tags   struct {
-				Num0 string `json:"0"`
-				Num2 string `json:"2"`
-			} `json:"tags"`
+			Tags       []string `json:"tags"`
 			Category   string   `json:"category"`
 			Language   string   `json:"language"`
 			Date       string   `json:"date"`
