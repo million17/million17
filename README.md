@@ -1,3 +1,3 @@
->Some men see things as they are and say why.. I dream things that never were and say why not.
+>People rise to the occasion without hesitation when they feel inspired and challenged.
 
-**George Bernard Shaw**
+**Lorii Myers**
