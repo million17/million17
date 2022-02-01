@@ -1,3 +1,3 @@
->I am an optimist. It does not seem too much use being anything else..
+>The man who has confidence in himself gains the confidence of others.
 
-**Winston Churchill**
+**Hasidic Proverb**
