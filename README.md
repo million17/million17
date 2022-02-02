@@ -1,3 +1,3 @@
->The man who has confidence in himself gains the confidence of others.
+>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
 
-**Hasidic Proverb**
+**Jean Shinoda Bolen**
