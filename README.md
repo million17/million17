@@ -1,3 +1,3 @@
->When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+>Luck is a dividend of sweat. The more you sweat, the luckier you get
 
-**Jean Shinoda Bolen**
+**Ray Kroc**
