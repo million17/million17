@@ -1,3 +1,3 @@
->Excellence prospers in the absence of excuses.
+>A quitter never wins and a winner never quits
 
-**Lorii Myers**
+**Napoleon Hill**
