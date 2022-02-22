@@ -1,3 +1,3 @@
->Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+>If you're changing the world, you're working on important things. You're excited to get up in the morning.
 
-**Isaac Lidsky**
+**Larry Page**
