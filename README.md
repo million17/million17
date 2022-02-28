@@ -1,3 +1,3 @@
->I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
+>Predicting Rain Doesn't Count. Building Arks Does.
 
-**Jack Ma**
+**Warren Buffett**
