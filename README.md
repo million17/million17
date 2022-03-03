@@ -1,3 +1,3 @@
->Don't be tempted to break momentum-work through it.
+>You make a living by what you earn; you make a life by what you give.
 
-**Lorii Myers**
+**Winston Churchill**
