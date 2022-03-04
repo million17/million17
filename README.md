@@ -1,3 +1,3 @@
->You make a living by what you earn; you make a life by what you give.
+>Let our advance worrying become advance thinking and planning.
 
 **Winston Churchill**
