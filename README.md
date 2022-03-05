@@ -1,3 +1,3 @@
->Let our advance worrying become advance thinking and planning.
+>When you win, say nothing. When you lose, say less.
 
-**Winston Churchill**
+**Paul Brown**
