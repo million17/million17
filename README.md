@@ -1,3 +1,3 @@
->When you win, say nothing. When you lose, say less.
+>Your life does not get better by chance. It gets better by change.
 
-**Paul Brown**
+**Jim Rohn**
