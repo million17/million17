@@ -1,3 +1,3 @@
->Luck is a dividend of sweat. The more you sweat, the luckier you get
+>Great things are done by a series of small things brought together.
 
-**Ray Kroc**
+**Vincent Van Gogh**
