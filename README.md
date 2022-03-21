@@ -1,3 +1,3 @@
->Stop complaining. Start creating.
+>Let our advance worrying become advance thinking and planning.
 
-**Dale Patridge**
+**Winston Churchill**
