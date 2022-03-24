@@ -1,3 +1,3 @@
->Winning is nice if you don't lose your integrity in the process.
+>The real opportunity for success lies within the person and not in the job.
 
-**Arnold Horshak**
+**Zig Ziglar**
