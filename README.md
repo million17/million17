@@ -1,3 +1,3 @@
->The determination to win is the better part of winning.
+>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
 
-**Daisaku Ikeda**
+**Isaac Lidsky**
