@@ -1,3 +1,3 @@
->You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
+>Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.
 
-**Edmund Hillary**
+**Mohamad Ali**
