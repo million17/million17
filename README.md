@@ -1,3 +1,3 @@
->I am an optimist. It does not seem too much use being anything else..
+>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
-**Winston Churchill**
+**Brene Brown**
