@@ -1,3 +1,3 @@
->Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+>If you like what you do, and you're lucky enough to be good at it, do it for that reason.
 
-**Brene Brown**
+**Phil Grimshaw**
