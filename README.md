@@ -1,3 +1,3 @@
->If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+>Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
 
-**Phil Grimshaw**
+**Lorii Myers**
