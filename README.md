@@ -1,3 +1,3 @@
->It wasn't raining when Noah built the ark..
+>An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
 
-**Howard Ruff**
+**Lorii Myers**
