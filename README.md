@@ -1,3 +1,3 @@
->Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+>Do not be afraid to give up the good for the great.
 
-**Mark Bezos**
+**Kenny Rogers**
