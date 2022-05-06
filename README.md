@@ -1,3 +1,3 @@
->Winning is nice if you don't lose your integrity in the process.
+>Excellence prospers in the absence of excuses.
 
-**Arnold Horshak**
+**Lorii Myers**
