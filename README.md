@@ -1,3 +1,3 @@
->Remove the temptation to settle for anything short of what you deserve.
+>Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
 
-**Lorii Myers**
+**Matthew Keith Groves**
