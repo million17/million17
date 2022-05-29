@@ -1,3 +1,3 @@
->Vision without action is daydream. Action without vision is nightmare..
+>There's such a thin line between winning and losing.
 
-**Japanese Proverb**
+**John R. Tunis**
