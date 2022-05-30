@@ -1,3 +1,3 @@
->There's such a thin line between winning and losing.
+>When there is no distraction, there is clarity.
 
-**John R. Tunis**
+**Lorii Myers**
