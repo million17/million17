@@ -1,3 +1,3 @@
->Don't be tempted to break momentum-work through it.
+>Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
 
 **Lorii Myers**
