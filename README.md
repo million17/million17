@@ -1,3 +1,3 @@
->Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+>If you like what you do, and you're lucky enough to be good at it, do it for that reason.
 
-**Daireth Winehouse**
+**Phil Grimshaw**
