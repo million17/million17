@@ -1,3 +1,3 @@
->Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
+>Named must your fear be before banish it you can.
 
-**Zaha Hadid**
+**Yoda**
