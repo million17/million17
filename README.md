@@ -1,3 +1,3 @@
->People rise to the occasion without hesitation when they feel inspired and challenged.
+>What you do speaks so loudly that I cannot hear what you say.
 
-**Lorii Myers**
+**Ralph Waldo Emerson**
