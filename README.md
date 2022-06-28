@@ -1,3 +1,3 @@
->You must be the change you want to see in the world..
+>A show of confidence raises the bar
 
-**M.K. Gandhi**
+**Lorii Myers**
