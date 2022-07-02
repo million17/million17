@@ -1,3 +1,3 @@
->Winning isn't everything.. It's the only thing.
+>Named must your fear be before banish it you can.
 
-**Vincent van Gogh**
+**Yoda**
