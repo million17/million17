@@ -1,3 +1,3 @@
->Named must your fear be before banish it you can.
+>When there is no distraction, there is clarity.
 
-**Yoda**
+**Lorii Myers**
