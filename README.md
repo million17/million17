@@ -1,3 +1,3 @@
->Let our advance worrying become advance thinking and planning.
+>You are very powerful, provided you know how powerful you are.
 
-**Winston Churchill**
+**Yogi Bhajan**
