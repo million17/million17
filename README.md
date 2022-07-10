@@ -1,3 +1,3 @@
->You are very powerful, provided you know how powerful you are.
+>Whether you think you can or think you can't, you're right..
 
-**Yogi Bhajan**
+**Henry Ford**
