@@ -1,3 +1,3 @@
->It is easy to sit up and take notice, What is difficult is getting up and taking action.
+>Let go of who you think you're supposed to be; embrace who you are.
 
-**Honore de Balzac**
+**Brene Brown**
