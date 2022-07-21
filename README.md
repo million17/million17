@@ -1,3 +1,3 @@
->Never waste your time trying to explain who you are to people who are committed to misunderstanding you.
+>A quitter never wins and a winner never quits
 
-**Dream Hampton**
+**Napoleon Hill**
