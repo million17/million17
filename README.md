@@ -1,3 +1,3 @@
->A quitter never wins and a winner never quits
+>Sometimes the bravest and most important thing you can do is just show up.
 
-**Napoleon Hill**
+**Brene Brown**
