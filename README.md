@@ -1,3 +1,3 @@
->Don't be tempted to break momentum-work through it.
+>You will never win if you never begin.
 
-**Lorii Myers**
+**Helen Rowland**
