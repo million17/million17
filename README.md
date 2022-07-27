@@ -1,3 +1,3 @@
->Some men see things as they are and say why.. I dream things that never were and say why not.
+>Perfection is not attainable, but if we chase perfection we can catch excellence..
 
-**George Bernard Shaw**
+**Vince Lombardi**
