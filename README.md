@@ -1,3 +1,3 @@
->If you have dreams it is your responsibility to make them happen.
+>Where there is ruin, there is hope for a treasure.
 
-**Bel Pesce**
+**Rumi**
