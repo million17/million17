@@ -1,3 +1,3 @@
->Where there is ruin, there is hope for a treasure.
+>You are very powerful, provided you know how powerful you are.
 
-**Rumi**
+**Yogi Bhajan**
