@@ -1,3 +1,3 @@
->You are very powerful, provided you know how powerful you are.
+>Beyond a certain point there is no return. This point has to be reached.
 
-**Yogi Bhajan**
+**Franz Kafka**
