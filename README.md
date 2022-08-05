@@ -1,3 +1,3 @@
->It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+>Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
 
-**Dale Carnegie**
+**Thomas Edison**
