@@ -1,3 +1,3 @@
->Vision without action is daydream. Action without vision is nightmare..
+>Excellence prospers in the absence of excuses.
 
-**Japanese Proverb**
+**Lorii Myers**
