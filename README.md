@@ -1,3 +1,3 @@
->Excellence prospers in the absence of excuses.
+>Whether you think you can or think you can't, you're right..
 
-**Lorii Myers**
+**Henry Ford**
