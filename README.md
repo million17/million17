@@ -1,3 +1,3 @@
->When you win, say nothing. When you lose, say less.
+>If I work as hard as I can, I wonder how much I can do in a day?
 
-**Paul Brown**
+**Ezra Taft Benson**
