@@ -1,3 +1,3 @@
->Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
+>A man who has no imagination has no wings.
 
-**William James Moore**
+**Mohamad Ali**
