@@ -1,3 +1,3 @@
->Find a purpose in life so big it will challenge every capacity to be at your best.
+>Do the best you can until you know better. Then when you know better, do better.
 
-**David O. McKay**
+**Maya Angelou**
