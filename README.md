@@ -1,3 +1,3 @@
->An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
+>You make a living by what you earn; you make a life by what you give.
 
-**Lorii Myers**
+**Winston Churchill**
