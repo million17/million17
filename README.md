@@ -1,3 +1,3 @@
->Do not let what you cannot do interfere with what you can do.
+>Logic will get you from A to B. Imagination will take you everywhere.
 
-**John Wooden**
+**Albert Einstein**
