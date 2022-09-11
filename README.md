@@ -1,3 +1,3 @@
->A quitter never wins and a winner never quits
+>You are very powerful, provided you know how powerful you are.
 
-**Napoleon Hill**
+**Yogi Bhajan**
