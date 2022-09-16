@@ -1,3 +1,3 @@
->From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
+>Extend beyond your preconceived limits!
 
-**Tom Hanks**
+**Lorii Myers**
