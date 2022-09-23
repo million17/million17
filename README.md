@@ -1,3 +1,3 @@
->If we ever stop thinking about the person we want to become, we stop learning and taking risks.
+>When you win, say nothing. When you lose, say less.
 
-**Sally Blount**
+**Paul Brown**
