@@ -1,3 +1,3 @@
->You must have a positive self perception in order to transcend anything.
+>Effort only fully releases its reward after a person refuses to quit.
 
-**Steve Maraboli**
+**Napoleon Hill**
