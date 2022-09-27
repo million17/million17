@@ -1,3 +1,3 @@
->Effort only fully releases its reward after a person refuses to quit.
+>The determination to win is the better part of winning.
 
-**Napoleon Hill**
+**Daisaku Ikeda**
