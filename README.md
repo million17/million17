@@ -1,3 +1,3 @@
->The determination to win is the better part of winning.
+>He who is not courageous enough to take risks will accomplish nothing in life.
 
-**Daisaku Ikeda**
+**Mohamad Ali**
