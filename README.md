@@ -1,3 +1,3 @@
->Win any way as long as you can get away with it. Nice guys finish last.
+>Winning is not everything, but the effort to win is.
 
-**Leo Durocher**
+**Zig Ziglar**
