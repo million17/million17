@@ -1,3 +1,3 @@
->Winning is not everything, but the effort to win is.
+>Excellence prospers in the absence of excuses.
 
-**Zig Ziglar**
+**Lorii Myers**
