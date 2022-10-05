@@ -1,3 +1,3 @@
->It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.
+>A successful man is one who can lay a firm foundation with the bricks that others throw at him.
 
-**Mohamad Ali**
+**Sidney Greenberg**
