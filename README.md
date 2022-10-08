@@ -1,3 +1,3 @@
->When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+>The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
 
-**Jean Shinoda Bolen**
+**Martina Navratilova**
