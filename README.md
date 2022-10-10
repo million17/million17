@@ -1,3 +1,3 @@
->Great things are done by a series of small things brought together.
+>I know for sure that what we dwell on is who we become.
 
-**Vincent Van Gogh**
+**Oprah Winfrey**
