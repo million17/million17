@@ -1,3 +1,3 @@
->I know for sure that what we dwell on is who we become.
+>There's such a thin line between winning and losing.
 
-**Oprah Winfrey**
+**John R. Tunis**
