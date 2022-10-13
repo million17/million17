@@ -1,3 +1,3 @@
->It is easy to sit up and take notice, What is difficult is getting up and taking action.
+>Vision without action is daydream. Action without vision is nightmare..
 
-**Honore de Balzac**
+**Japanese Proverb**
