@@ -1,3 +1,3 @@
->Vision without action is daydream. Action without vision is nightmare..
+>Winning is nice if you don't lose your integrity in the process.
 
-**Japanese Proverb**
+**Arnold Horshak**
