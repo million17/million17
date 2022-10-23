@@ -1,3 +1,3 @@
->Stop complaining. Start creating.
+>Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
 
-**Dale Patridge**
+**Lorii Myers**
