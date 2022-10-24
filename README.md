@@ -1,3 +1,3 @@
->Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
+>Don't count the days; make the days count.
 
-**Lorii Myers**
+**Mohamad Ali**
