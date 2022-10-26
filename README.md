@@ -1,3 +1,3 @@
->The journey of a thousand miles begins with one step.
+>What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!
 
-**Lao Tzu**
+**Larry Page**
