@@ -1,3 +1,3 @@
->Winning isn't everything.. It's the only thing.
+>A man who has no imagination has no wings.
 
-**Vincent van Gogh**
+**Mohamad Ali**
