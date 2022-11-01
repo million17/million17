@@ -1,3 +1,3 @@
->A man who has no imagination has no wings.
+>Let our advance worrying become advance thinking and planning.
 
-**Mohamad Ali**
+**Winston Churchill**
