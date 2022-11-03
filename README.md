@@ -1,3 +1,3 @@
->Let our advance worrying become advance thinking and planning.
+>A show of confidence raises the bar
 
-**Winston Churchill**
+**Lorii Myers**
