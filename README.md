@@ -1,3 +1,3 @@
->The best way to predict the future is to create it.
+>If I work as hard as I can, I wonder how much I can do in a day?
 
-**Abraham Lincoln**
+**Ezra Taft Benson**
