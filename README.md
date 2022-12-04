@@ -1,3 +1,3 @@
->Do the best you can until you know better. Then when you know better, do better.
+>You will never win if you never begin.
 
-**Maya Angelou**
+**Helen Rowland**
