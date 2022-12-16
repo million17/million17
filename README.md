@@ -1,3 +1,3 @@
->People who are crazy enough to think they can change the world, are the ones who do.
+>What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?
 
-**Apple Computers**
+**Brene Brown**
