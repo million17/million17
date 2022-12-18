@@ -1,3 +1,3 @@
->Your overnight success story is always a result of everything you have done in your life until that moment.
+>Your life does not get better by chance. It gets better by change.
 
-**Bel Pesce**
+**Jim Rohn**
