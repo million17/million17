@@ -1,3 +1,3 @@
->Your life does not get better by chance. It gets better by change.
+>Where there is ruin, there is hope for a treasure.
 
-**Jim Rohn**
+**Rumi**
