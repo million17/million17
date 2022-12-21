@@ -1,3 +1,3 @@
->Win any way as long as you can get away with it. Nice guys finish last.
+>Failure is the condiment that gives success its flavor.
 
-**Leo Durocher**
+**Truman Capote**
