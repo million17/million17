@@ -1,3 +1,3 @@
->Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
+>Whether you think you can or think you can't, you're right..
 
-**Veronica A. Shoffstall**
+**Henry Ford**
