@@ -1,3 +1,3 @@
->Excellence prospers in the absence of excuses.
+>Remember that you are very special, no one can play your role better than you.
 
-**Lorii Myers**
+**Damayanti Patra**
