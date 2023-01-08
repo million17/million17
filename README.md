@@ -1,3 +1,3 @@
->The idea that everyone should slavishly work so they do something inefficiently so they keep their job - that just doesn't make any sense to me. That can't be the right answer.
+>I know for sure that what we dwell on is who we become.
 
-**Larry Page**
+**Oprah Winfrey**
