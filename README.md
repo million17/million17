@@ -1,3 +1,3 @@
->Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
+>A man who has no imagination has no wings.
 
-**Matthew Keith Groves**
+**Mohamad Ali**
