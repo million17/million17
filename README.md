@@ -1,3 +1,3 @@
->The journey of a thousand miles begins with one step.
+>Winning is nice if you don't lose your integrity in the process.
 
-**Lao Tzu**
+**Arnold Horshak**
