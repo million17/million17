@@ -1,3 +1,3 @@
->In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
+>There's such a thin line between winning and losing.
 
-**Vincent Van Gogh**
+**John R. Tunis**
