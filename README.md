@@ -1,3 +1,3 @@
->Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
+>Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.
 
-**Christiane Northrup**
+**Henry Cloud**
