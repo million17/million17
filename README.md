@@ -1,3 +1,3 @@
->Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
+>Persistence is very important. You should not give up unless you are forced to give up.
 
-**Lorii Myers**
+**Elon Musk**
