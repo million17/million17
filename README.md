@@ -1,3 +1,3 @@
->If you want to make your dreams come true, the first thing you have to do is wake up.
+>Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
 
-**J.M. Power**
+**Lorii Myers**
