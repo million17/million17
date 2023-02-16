@@ -1,3 +1,3 @@
->Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
+>It is easy to sit up and take notice, What is difficult is getting up and taking action.
 
-**Lorii Myers**
+**Honore de Balzac**
