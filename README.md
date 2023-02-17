@@ -1,3 +1,3 @@
->It is easy to sit up and take notice, What is difficult is getting up and taking action.
+>If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
 
-**Honore de Balzac**
+**John W. Holt, Jr.**
