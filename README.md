@@ -1,3 +1,3 @@
->If you cannot do great things, do small things in a great way.
+>Failure is the condiment that gives success its flavor.
 
-**Napoleon Hill**
+**Truman Capote**
