@@ -1,3 +1,3 @@
->Failure is the condiment that gives success its flavor.
+>Things are not bad in themselves, but our cowardice makes them so.
 
-**Truman Capote**
+**Michel de Montaigne**
