@@ -1,3 +1,3 @@
->Things are not bad in themselves, but our cowardice makes them so.
+>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
 
-**Michel de Montaigne**
+**Daireth Winehouse**
