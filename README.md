@@ -1,3 +1,3 @@
->People rise to the occasion without hesitation when they feel inspired and challenged.
+>Stress is like a pulse, if you have it you are alive.
 
-**Lorii Myers**
+**Steve Maraboli**
