@@ -1,3 +1,3 @@
->There's such a thin line between winning and losing.
+>Whether you think you can or think you can't, you're right..
 
-**John R. Tunis**
+**Henry Ford**
