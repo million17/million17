@@ -1,3 +1,3 @@
->It is easy to sit up and take notice, What is difficult is getting up and taking action.
+>If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
 
-**Honore de Balzac**
+**Jack Ma**
