@@ -1,3 +1,3 @@
->Beyond a certain point there is no return. This point has to be reached.
+>When there is no distraction, there is clarity.
 
-**Franz Kafka**
+**Lorii Myers**
