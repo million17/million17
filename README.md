@@ -1,3 +1,3 @@
->When there is no distraction, there is clarity.
+>Do not let what you cannot do interfere with what you can do.
 
-**Lorii Myers**
+**John Wooden**
