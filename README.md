@@ -1,3 +1,3 @@
->Do not let what you cannot do interfere with what you can do.
+>Do the best you can until you know better. Then when you know better, do better.
 
-**John Wooden**
+**Maya Angelou**
