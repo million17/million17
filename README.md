@@ -1,3 +1,3 @@
->Hang Out with People Who are Better than You.
+> Everything That We See Is A Shadow Cast By That Which We Do Not See.
 
-**Warren Buffett**
+**Martin Luther King, Jr.**

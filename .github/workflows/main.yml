@@ -3,24 +3,37 @@ name: quote_generator
 on:
   workflow_dispatch:
   schedule:
+    # GitHub Actions cron uses UTC. This is 07:00 in Vietnam (UTC+7).
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-quote
+  cancel-in-progress: false
+
 jobs:
-  build:
+  update-quote:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Go
+        uses: actions/setup-go@v5
         with:
-          go-version: 1.15.7
-      - run: go version
+          go-version: stable
       - name: Generate quote
         run: go run main.go
-      - name: Update README.md
+      - name: Commit and push README
         run: |
-          git config --global user.email "ngoquangtrieu99tb@gmail.com"
-          git config --global user.name "Trieu Ngo Quang"
-          git add .
-          git commit -m "Updated README.md" || echo "No changes to commit"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update daily quote"
           git push

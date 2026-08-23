@@ -3,65 +3,65 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"net/http"
 	"os"
+	"strings"
+	"time"
 )
 
-type Response struct {
-	Success struct {
-		Total int `json:"total"`
-	} `json:"success"`
-	Contents struct {
-		Quotes []struct {
-			Quote      string   `json:"quote"`
-			Length     string   `json:"length"`
-			Author     string   `json:"author"`
-// 			Tags       []string `json:"tags"`
-			Category   string   `json:"category"`
-			Language   string   `json:"language"`
-			Date       string   `json:"date"`
-			Permalink  string   `json:"permalink"`
-			ID         string   `json:"id"`
-			Background string   `json:"background"`
-			Title      string   `json:"title"`
-		} `json:"quotes"`
-	} `json:"contents"`
-	Baseurl   string `json:"baseurl"`
-	Copyright struct {
-		Year int    `json:"year"`
-		URL  string `json:"url"`
-	} `json:"copyright"`
+type quote struct {
+	Text   string `json:"quote"`
+	Author string `json:"author"`
+}
+
+const quoteAPI = "https://dummyjson.com/quotes/random"
+
+func fetchQuote(client *http.Client) (quote, error) {
+	request, err := http.NewRequest(http.MethodGet, quoteAPI, nil)
+	if err != nil {
+		return quote{}, fmt.Errorf("create request: %w", err)
+	}
+	request.Header.Set("Accept", "application/json")
+	request.Header.Set("User-Agent", "million17-daily-quote/1.0")
+
+	response, err := client.Do(request)
+	if err != nil {
+		return quote{}, fmt.Errorf("request quote API: %w", err)
+	}
+	defer response.Body.Close()
+
+	if response.StatusCode < 200 || response.StatusCode >= 300 {
+		body, _ := io.ReadAll(io.LimitReader(response.Body, 1024))
+		return quote{}, fmt.Errorf("quote API returned %s: %s", response.Status, strings.TrimSpace(string(body)))
+	}
+
+	var selected quote
+	if err := json.NewDecoder(io.LimitReader(response.Body, 1<<20)).Decode(&selected); err != nil {
+		return quote{}, fmt.Errorf("decode quote API response: %w", err)
+	}
+	selected.Text = strings.TrimSpace(selected.Text)
+	selected.Author = strings.TrimSpace(selected.Author)
+	if selected.Text == "" || selected.Author == "" {
+		return quote{}, fmt.Errorf("quote API returned an empty quote or author")
+	}
+
+	return selected, nil
 }
 
 func main() {
-	res, err := http.Get("https://quotes.rest/qod?language=en&quot")
+	client := &http.Client{Timeout: 15 * time.Second}
+	selected, err := fetchQuote(client)
 	if err != nil {
-		panic(err)
+		fmt.Fprintln(os.Stderr, err)
+		os.Exit(1)
 	}
-	defer res.Body.Close()
 
-	fmt.Println("Response status:", res.Status)
-	fmt.Println("Response body:", res.Body)
-
-	response := &Response{}
-	err = json.NewDecoder(res.Body).Decode(response)
-	if err != nil {
-		panic(err)
+	content := fmt.Sprintf("> %s\n\n**%s**\n", selected.Text, selected.Author)
+	if err := os.WriteFile("README.md", []byte(content), 0o644); err != nil {
+		fmt.Fprintf(os.Stderr, "update README.md: %v\n", err)
+		os.Exit(1)
 	}
-	quote := response.Contents.Quotes[0]
-	fmt.Println("Quote", quote.Quote)
-	fmt.Println("Author", quote.Author)
 
-	f, err := os.Create("README.md")
-
-	if err != nil {
-		panic(err)
-	}
-	defer f.Close()
-
-	_, err = f.WriteString(fmt.Sprintf(">%s\n\n**%s**", quote.Quote, quote.Author))
-
-	if err != nil {
-		panic(err)
-	}
+	fmt.Printf("Selected quote by %s\n", selected.Author)
 }
