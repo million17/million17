@@ -1,3 +1,3 @@
-> Everything That We See Is A Shadow Cast By That Which We Do Not See.
+> It is better to listen to a wise enemy than to seek counsel from a foolish friend.
 
-**Martin Luther King, Jr.**
+**Ali ibn Abi Talib (R.A)**
