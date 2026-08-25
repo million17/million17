@@ -1,3 +1,3 @@
-> It is better to listen to a wise enemy than to seek counsel from a foolish friend.
+> Do for this life as if you live forever, do for the afterlife as if you will die tomorrow.
 
 **Ali ibn Abi Talib (R.A)**
