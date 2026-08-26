@@ -1,3 +1,3 @@
-> Do for this life as if you live forever, do for the afterlife as if you will die tomorrow.
+> Everyone's life is a page in the human history irrespective of the position he or she holds or the work he or she performs.
 
-**Ali ibn Abi Talib (R.A)**
+**Abdul Kalam**
