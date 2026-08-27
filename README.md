@@ -1,3 +1,3 @@
-> Everyone's life is a page in the human history irrespective of the position he or she holds or the work he or she performs.
+> Always remember you are braver than you believe, stronger than you seem, smarter than you think and twice as beautiful as you'd ever imagined. Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
 
-**Abdul Kalam**
+**Rumi**
