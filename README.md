@@ -1,3 +1,3 @@
-> Always remember you are braver than you believe, stronger than you seem, smarter than you think and twice as beautiful as you'd ever imagined. Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
+> Allah will help him who moves in the way of Allah.
 
-**Rumi**
+**Abu Bakr (R.A)**
