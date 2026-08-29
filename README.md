@@ -1,3 +1,3 @@
-> Allah will help him who moves in the way of Allah.
+> You have to dream before your dreams can come true.
 
-**Abu Bakr (R.A)**
+**Abdul Kalam**
