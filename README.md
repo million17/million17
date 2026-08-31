@@ -1,3 +1,3 @@
-> I Never Did A Day'S Work In My Life. It Was All Fun.
+> Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn.
 
-**Thomas A. Edison**
+**Benjamin Franklin**
