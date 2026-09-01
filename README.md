@@ -1,3 +1,3 @@
-> Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn.
+> Don't count the days, make the days count.
 
-**Benjamin Franklin**
+**Muhammad Ali**
