@@ -1,3 +1,3 @@
-> Don't count the days, make the days count.
+> When you advise any person you should be guided by the fear of God.
 
-**Muhammad Ali**
+**Abu Bakr (R.A)**
