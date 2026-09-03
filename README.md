@@ -1,3 +1,3 @@
-> When you advise any person you should be guided by the fear of God.
+> I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'.
 
-**Abu Bakr (R.A)**
+**Maya Angelou**
