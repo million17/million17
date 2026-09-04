@@ -1,3 +1,3 @@
-> I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'.
+> Life Well Spent Is Long.
 
-**Maya Angelou**
+**Leonardo Da Vinci**
