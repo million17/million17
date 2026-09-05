@@ -1,3 +1,3 @@
-> Life Well Spent Is Long.
+> Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person.
 
-**Leonardo Da Vinci**
+**Abdul Kalam**
