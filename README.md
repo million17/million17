@@ -1,3 +1,3 @@
-> Our Prime Purpose In This Life Is To Help Others. And If You Can'T Help Them, At Least Don'T Hurt Them.
+> Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms.
 
-**Dalai Lama**
+**Aristotle**
