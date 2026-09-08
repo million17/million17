@@ -1,3 +1,3 @@
-> Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms.
+> A moment of patience in a moment of anger prevents a thousand moments of regret.
 
-**Aristotle**
+**Ali ibn Abi Talib (R.A)**
