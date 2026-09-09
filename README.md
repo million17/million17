@@ -1,3 +1,3 @@
-> A moment of patience in a moment of anger prevents a thousand moments of regret.
+> The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action.
 
-**Ali ibn Abi Talib (R.A)**
+**Confucius**
