@@ -1,3 +1,3 @@
-> The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action.
+> As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words.
 
-**Confucius**
+**William Shakespeare**
