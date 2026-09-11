@@ -1,3 +1,3 @@
-> As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words.
+> In every religion there is love, yet love has no religion.
 
-**William Shakespeare**
+**Rumi**
