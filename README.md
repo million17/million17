@@ -1,3 +1,3 @@
-> In every religion there is love, yet love has no religion.
+> Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed.
 
-**Rumi**
+**Ali Ibn Abi Talib**
