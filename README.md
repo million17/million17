@@ -1,3 +1,3 @@
-> Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed.
+> Sell your cleverness and buy bewilderment.
 
-**Ali Ibn Abi Talib**
+**Rumi**
