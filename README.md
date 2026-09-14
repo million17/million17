@@ -1,3 +1,3 @@
-> Sell your cleverness and buy bewilderment.
+> Success Is Dependent Upon The Glands - Sweat Glands.
 
-**Rumi**
+**Zig Ziglar**
