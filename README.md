@@ -1,3 +1,3 @@
-> Success Is Dependent Upon The Glands - Sweat Glands.
+> That's okay, I'm still the Greatest.
 
-**Zig Ziglar**
+**Muhammad Ali**
