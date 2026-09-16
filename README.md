@@ -1,3 +1,3 @@
-> That's okay, I'm still the Greatest.
+> Often your utterances and expressions of your face leak out the secrets of your hidden thoughts.
 
-**Muhammad Ali**
+**Ali ibn Abi Talib (R.A)**
