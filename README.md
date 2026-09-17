@@ -1,3 +1,3 @@
-> Often your utterances and expressions of your face leak out the secrets of your hidden thoughts.
+> The angel is free because of his knowledge, the beast because of his ignorance. Between the two remains the son of man to struggle.
 
-**Ali ibn Abi Talib (R.A)**
+**Rumi**
