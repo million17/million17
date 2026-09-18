@@ -1,3 +1,3 @@
-> The angel is free because of his knowledge, the beast because of his ignorance. Between the two remains the son of man to struggle.
+> The Hardest Thing To Understand In The World Is The Income Tax.
 
-**Rumi**
+**Albert Einstein**
