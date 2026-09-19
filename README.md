@@ -1,3 +1,3 @@
-> The Hardest Thing To Understand In The World Is The Income Tax.
+> I'm going to show you how great I am!
 
-**Albert Einstein**
+**Muhammad Ali**
