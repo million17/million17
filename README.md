@@ -1,3 +1,3 @@
-> I'm going to show you how great I am!
+> If all you can do is crawl, start crawling.
 
-**Muhammad Ali**
+**Rumi**
