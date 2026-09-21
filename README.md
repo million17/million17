@@ -1,3 +1,3 @@
-> If all you can do is crawl, start crawling.
+> You Don'T Learn To Walk By Following Rules. You Learn By Doing, And By Falling Over.
 
-**Rumi**
+**Richard Branson**
