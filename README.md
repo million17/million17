@@ -1,3 +1,3 @@
-> You Don'T Learn To Walk By Following Rules. You Learn By Doing, And By Falling Over.
+> Building capacity dissolves differences. It irons out inequalities.
 
-**Richard Branson**
+**Abdul Kalam**
