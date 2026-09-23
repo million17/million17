@@ -1,3 +1,3 @@
-> Building capacity dissolves differences. It irons out inequalities.
+> It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure.
 
-**Abdul Kalam**
+**Bill Gates**
