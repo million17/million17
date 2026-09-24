@@ -1,3 +1,3 @@
-> It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure.
+> Tolerance and understanding won't 'trickle down' in our society any more than wealth does.
 
-**Bill Gates**
+**Muhammad Ali**
