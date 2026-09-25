@@ -1,3 +1,3 @@
-> Tolerance and understanding won't 'trickle down' in our society any more than wealth does.
+> Pride in the case of a rich man is bad, but pride in the case of a poor man is worse.
 
-**Muhammad Ali**
+**Abu Bakr (R.A)**
