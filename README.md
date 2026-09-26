@@ -1,3 +1,3 @@
-> Pride in the case of a rich man is bad, but pride in the case of a poor man is worse.
+> Courage Is Grace Under Pressure.
 
-**Abu Bakr (R.A)**
+**Ernest Hemingway**
