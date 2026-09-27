@@ -1,3 +1,3 @@
-> Courage Is Grace Under Pressure.
+> Let me alone, and go in search of someone else.
 
-**Ernest Hemingway**
+**Ali ibn Abi Talib (R.A)**
