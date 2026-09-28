@@ -1,3 +1,3 @@
-> Let me alone, and go in search of someone else.
+> If You Tell The Truth, You Don'T Have To Remember Anything.
 
-**Ali ibn Abi Talib (R.A)**
+**Mark Twain**
