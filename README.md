@@ -1,3 +1,3 @@
-> If You Tell The Truth, You Don'T Have To Remember Anything.
+> The Attempt And Not The Deed Confounds Us.
 
-**Mark Twain**
+**William Shakespeare**
