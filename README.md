@@ -1,3 +1,3 @@
-> Frazier's got two chances. Slim, and none. And Slim just left town.
+> For great men, religion is a way of making friends; small people make religion a fighting tool.
 
-**Muhammad Ali**
+**Abdul Kalam**
