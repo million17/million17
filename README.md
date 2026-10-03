@@ -1,3 +1,3 @@
-> For great men, religion is a way of making friends; small people make religion a fighting tool.
+> The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places.
 
-**Abdul Kalam**
+**Ernest Hemingway**
