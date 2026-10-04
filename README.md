@@ -1,3 +1,3 @@
-> The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places.
+> Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away.
 
-**Ernest Hemingway**
+**Ellen DeGeneres**
