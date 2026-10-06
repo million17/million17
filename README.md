@@ -1,3 +1,3 @@
-> Failure Is Not The Opposite Of Success; It'S Part Of Success.
+> Run away from greatness and greatness will follow you.
 
-**Arianna Huffington**
+**Abu Bakr (R.A)**
