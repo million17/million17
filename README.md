@@ -1,3 +1,3 @@
-> Run away from greatness and greatness will follow you.
+> Trust is that there should be no difference between what you do and say and what you think.
 
-**Abu Bakr (R.A)**
+**Umar ibn Al-Khattāb (R.A)**
