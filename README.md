@@ -1,3 +1,3 @@
-> Trust is that there should be no difference between what you do and say and what you think.
+> To make one good action succeed another, is the perfection of goodness.
 
-**Umar ibn Al-Khattāb (R.A)**
+**Ali ibn Abi Talib (R.A)**
