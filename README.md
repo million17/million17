@@ -1,3 +1,3 @@
-> Great dreams of great dreamers are always transcended.
+> Inside of a ring or out, ain't nothing wrong with going down. It's staying down that's wrong.
 
-**Abdul Kalam**
+**Muhammad Ali**
