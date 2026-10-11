@@ -1,3 +1,3 @@
-> Inside of a ring or out, ain't nothing wrong with going down. It's staying down that's wrong.
+> Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all...
 
 **Muhammad Ali**
