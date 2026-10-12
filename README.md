@@ -1,3 +1,3 @@
-> Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all...
+> The End Of Life Is To Be Like God, And The Soul Following God Will Be Like Him.
 
-**Muhammad Ali**
+**Socrates**
