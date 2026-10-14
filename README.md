@@ -1,3 +1,3 @@
-> To My Mind The Old Masters Are Not Art; Their Value Is In Their Scarcity.
+> Don't you know yet? It is your Light that lights the worlds.
 
-**Thomas A. Edison**
+**Rumi**
