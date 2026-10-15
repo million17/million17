@@ -1,3 +1,3 @@
-> Don't you know yet? It is your Light that lights the worlds.
+> My toughest fight was with my first wife.
 
-**Rumi**
+**Muhammad Ali**
