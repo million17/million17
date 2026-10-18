@@ -1,3 +1,3 @@
-> If they can make penicillin out of moldy bread, then they can sure make something out of you.
+> He That Rises Late Must Trot All Day.
 
-**Muhammad Ali**
+**Benjamin Franklin**
