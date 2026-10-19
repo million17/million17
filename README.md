@@ -1,3 +1,3 @@
-> He That Rises Late Must Trot All Day.
+> The middle path is the way to wisdom.
 
-**Benjamin Franklin**
+**Rumi**
