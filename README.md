@@ -1,3 +1,3 @@
-> The middle path is the way to wisdom.
+> The wiser a man is, the less talkative will he be.
 
-**Rumi**
+**Ali ibn Abi Talib (R.A)**
