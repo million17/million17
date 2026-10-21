@@ -1,3 +1,3 @@
-> The wiser a man is, the less talkative will he be.
+> Frazier's got two chances. Slim, and none. And Slim just left town.
 
-**Ali ibn Abi Talib (R.A)**
+**Muhammad Ali**
