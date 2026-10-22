@@ -1,3 +1,3 @@
-> Frazier's got two chances. Slim, and none. And Slim just left town.
+> Hide the good you do, and make known the good done to you.
 
-**Muhammad Ali**
+**Ali ibn Abi Talib (R.A)**
