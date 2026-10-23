@@ -1,3 +1,3 @@
-> Hide the good you do, and make known the good done to you.
+> I Am Certainly Not One Of Those Who Need To Be Prodded. In Fact, If Anything, I Am The Prod.
 
-**Ali ibn Abi Talib (R.A)**
+**Winston Churchill**
