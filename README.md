@@ -1,3 +1,3 @@
-> I Am Certainly Not One Of Those Who Need To Be Prodded. In Fact, If Anything, I Am The Prod.
+> Speak a new language so that the world will be a new world.
 
-**Winston Churchill**
+**Rumi**
