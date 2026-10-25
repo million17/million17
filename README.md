@@ -1,3 +1,3 @@
-> Speak a new language so that the world will be a new world.
+> A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice.
 
-**Rumi**
+**Bill Cosby**
