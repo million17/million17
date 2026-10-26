@@ -1,3 +1,3 @@
-> A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice.
+> Darkness Cannot Drive Out Darkness; Only Light Can Do That. Hate Cannot Drive Out Hate; Only Love Can Do That.
 
-**Bill Cosby**
+**Martin Luther King  Jr.**
