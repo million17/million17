@@ -1,3 +1,3 @@
-> Darkness Cannot Drive Out Darkness; Only Light Can Do That. Hate Cannot Drive Out Hate; Only Love Can Do That.
+> A thousand half-loves must be forsaken to take one whole heart home.
 
-**Martin Luther King  Jr.**
+**Rumi**
