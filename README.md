@@ -1,3 +1,3 @@
-> A thousand half-loves must be forsaken to take one whole heart home.
+> Success is not achieved by winning all the time. Real success comes when we rise after we fall.
 
-**Rumi**
+**Muhammad Ali**
