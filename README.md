@@ -1,3 +1,3 @@
-> Success is not achieved by winning all the time. Real success comes when we rise after we fall.
+> Do we not realize that self respect comes with self reliance?
 
-**Muhammad Ali**
+**Abdul Kalam**
