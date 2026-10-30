@@ -1,3 +1,3 @@
-> Do we not realize that self respect comes with self reliance?
+> Let Me Alone, And Go In Search Of Someone Else.
 
-**Abdul Kalam**
+**Ali Ibn Abi Talib**
