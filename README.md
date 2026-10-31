@@ -1,3 +1,3 @@
-> Let Me Alone, And Go In Search Of Someone Else.
+> If We Did All The Things We Are Capable Of, We Would Literally Astound Ourselves.
 
-**Ali Ibn Abi Talib**
+**Thomas A. Edison**
