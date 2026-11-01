@@ -1,3 +1,3 @@
-> If We Did All The Things We Are Capable Of, We Would Literally Astound Ourselves.
+> If all you can do is crawl, start crawling.
 
-**Thomas A. Edison**
+**Rumi**
