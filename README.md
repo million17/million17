@@ -1,3 +1,3 @@
-> If all you can do is crawl, start crawling.
+> It Is Not Best That We Should All Think Alike; It Is A Difference Of Opinion That Makes Horse Races.
 
-**Rumi**
+**Mark Twain**
