@@ -1,3 +1,3 @@
-> If Your Eyes Are Opened, You'll See The Things Worth Seeing.
+> Praise Allah, for by praise His blessings multiply.
 
-**Rumi**
+**Umar ibn Al-Khattāb (R.A)**
