@@ -1,3 +1,3 @@
-> Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God.
+> I Put My Heart And My Soul Into My Work, And Have Lost My Mind In The Process.
 
-**Muhammad Ali**
+**Vincent Van Gogh**
