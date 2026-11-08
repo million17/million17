@@ -1,3 +1,3 @@
-> I Put My Heart And My Soul Into My Work, And Have Lost My Mind In The Process.
+> History Is More Or Less Bunk.
 
-**Vincent Van Gogh**
+**Henry Ford**
