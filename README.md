@@ -1,3 +1,3 @@
-> History Is More Or Less Bunk.
+> Unbelievable, Yet, What Else Could It Be?
 
-**Henry Ford**
+**Jim Courier**
