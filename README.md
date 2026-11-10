@@ -1,3 +1,3 @@
-> Unbelievable, Yet, What Else Could It Be?
+> I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess.
 
-**Jim Courier**
+**Martin Luther**
