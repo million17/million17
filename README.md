@@ -1,3 +1,3 @@
-> I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess.
+> The Love Of Heaven Makes One Heavenly.
 
-**Martin Luther**
+**William Shakespeare**
