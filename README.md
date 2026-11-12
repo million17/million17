@@ -1,3 +1,3 @@
-> The Love Of Heaven Makes One Heavenly.
+> The greatest truth is honesty, and the greatest falsehood is dishonesty.
 
-**William Shakespeare**
+**Abu Bakr (R.A)**
