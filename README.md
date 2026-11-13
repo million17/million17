@@ -1,3 +1,3 @@
-> The greatest truth is honesty, and the greatest falsehood is dishonesty.
+> Have An Earnestness For Death And You Will Have Life.
 
-**Abu Bakr (R.A)**
+**Abu Bakr**
