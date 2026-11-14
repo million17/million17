@@ -1,3 +1,3 @@
-> Have An Earnestness For Death And You Will Have Life.
+> Those That Know, Do. Those That Understand, Teach.
 
-**Abu Bakr**
+**Aristotle**
