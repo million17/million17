@@ -1,3 +1,3 @@
-> Those That Know, Do. Those That Understand, Teach.
+> Politics Is For The Present, But An Equation Is For Eternity.
 
-**Aristotle**
+**Albert Einstein**
