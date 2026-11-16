@@ -1,3 +1,3 @@
-> Politics Is For The Present, But An Equation Is For Eternity.
+> Lovely days don't come to you, you should walk to them.
 
-**Albert Einstein**
+**Rumi**
