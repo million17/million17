@@ -1,3 +1,3 @@
-> God blesses him who helps his brother.
+> When a nation is surrounded by weaponized nations, she has to equip herself.
 
-**Abu Bakr (R.A)**
+**Abdul Kalam**
