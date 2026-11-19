@@ -1,3 +1,3 @@
-> When a nation is surrounded by weaponized nations, she has to equip herself.
+> Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?
 
-**Abdul Kalam**
+**William Shakespeare**
