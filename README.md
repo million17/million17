@@ -1,3 +1,3 @@
-> Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?
+> One Of The Greatest Diseases Is To Be Nobody To Anybody.
 
-**William Shakespeare**
+**Mother Teresa**
