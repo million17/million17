@@ -1,3 +1,3 @@
-> One Of The Greatest Diseases Is To Be Nobody To Anybody.
+> In All Things Of Nature There Is Something Of The Marvelous.
 
-**Mother Teresa**
+**Aristotle**
