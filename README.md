@@ -1,3 +1,3 @@
-> In All Things Of Nature There Is Something Of The Marvelous.
+> In this world, fear has no place. Only strength respects strength.
 
-**Aristotle**
+**Abdul Kalam**
