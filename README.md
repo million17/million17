@@ -1,3 +1,3 @@
-> In this world, fear has no place. Only strength respects strength.
+> Through love, all pain will turn to medicine.
 
-**Abdul Kalam**
+**Rumi**
