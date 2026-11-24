@@ -1,3 +1,3 @@
-> Through love, all pain will turn to medicine.
+> Words, Without Power, Is Mere Philosophy.
 
-**Rumi**
+**Muhammad Iqbal**
