@@ -1,3 +1,3 @@
-> The best brains of the nation may be found on the last benches of the classroom.
+> People's hearts are like wild animals. They attach their selves to those that love and train them.
 
-**Abdul Kalam**
+**Ali ibn Abi Talib (R.A)**
