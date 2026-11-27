@@ -1,3 +1,3 @@
-> People's hearts are like wild animals. They attach their selves to those that love and train them.
+> I Am The Greatest, I Said That Even Before I Knew I Was.
 
-**Ali ibn Abi Talib (R.A)**
+**Muhammad Ali**
