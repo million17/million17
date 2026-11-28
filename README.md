@@ -1,3 +1,3 @@
-> I Am The Greatest, I Said That Even Before I Knew I Was.
+> The Way To Get Started Is To Quit Talking And Begin Doing.
 
-**Muhammad Ali**
+**Walt Disney**
